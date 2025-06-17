@@ -525,5 +525,6 @@ func conc_task3_real() {
 }
 
 func main() {
+	fmt.Println("This is to check 'bugfix' branch and push to origin/bugfix")
 	conc_task3_real()
 }
