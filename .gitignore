@@ -1,0 +1,25 @@
+# Бинарные файлы Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Файлы покрытия тестов
+*.out
+
+# Кэш Go
+**/vendor/
+**/bin/
+**/build/
+**/dist/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
